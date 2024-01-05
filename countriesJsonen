@@ -1,0 +1,282 @@
+[
+  {
+    "code": "AE",
+    "name": "Birleşik Arap Emirlikleri",
+    "flag": "🇦🇪"
+  },
+  {
+    "code": "RU",
+    "name": "Rusya",
+    "flag": "🇷🇺"
+  },
+  {
+    "code": "DE",
+    "name": "Almanya",
+    "flag": "🇩🇪"
+  },
+  {
+    "code": "FR",
+    "name": "Fransa",
+    "flag": "🇫🇷"
+  },
+  {
+    "code": "GB",
+    "name": "Birleşik Krallık",
+    "flag": "🇬🇧"
+  },
+  {
+    "code": "IT",
+    "name": "İtalya",
+    "flag": "🇮🇹"
+  },
+  {
+    "code": "ES",
+    "name": "İspanya",
+    "flag": "🇪🇸"
+  },
+  {
+    "code": "UA",
+    "name": "Ukrayna",
+    "flag": "🇺🇦"
+  },
+  {
+    "code": "TR",
+    "name": "Türkiye",
+    "flag": "🇹🇷"
+  },
+  {
+    "code": "PL",
+    "name": "Polonya",
+    "flag": "🇵🇱"
+  },
+  {
+    "code": "RO",
+    "name": "Romanya",
+    "flag": "🇷🇴"
+  },
+  {
+    "code": "NL",
+    "name": "Hollanda",
+    "flag": "🇳🇱"
+  },
+  {
+    "code": "BE",
+    "name": "Belçika",
+    "flag": "🇧🇪"
+  },
+  {
+    "code": "GR",
+    "name": "Yunanistan",
+    "flag": "🇬🇷"
+  },
+  {
+    "code": "PT",
+    "name": "Portekiz",
+    "flag": "🇵🇹"
+  },
+  {
+    "code": "CZ",
+    "name": "Çek Cumhuriyeti",
+    "flag": "🇨🇿"
+  },
+  {
+    "code": "SE",
+    "name": "İsveç",
+    "flag": "🇸🇪"
+  },
+  {
+    "code": "CH",
+    "name": "İsviçre",
+    "flag": "🇨🇭"
+  },
+  {
+    "code": "HU",
+    "name": "Macaristan",
+    "flag": "🇭🇺"
+  },
+  {
+    "code": "AT",
+    "name": "Avusturya",
+    "flag": "🇦🇹"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaristan",
+    "flag": "🇧🇬"
+  },
+  {
+    "code": "DK",
+    "name": "Danimarka",
+    "flag": "🇩🇰"
+  },
+  {
+    "code": "FI",
+    "name": "Finlandiya",
+    "flag": "🇫🇮"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakya",
+    "flag": "🇸🇰"
+  },
+  {
+    "code": "NO",
+    "name": "Norveç",
+    "flag": "🇳🇴"
+  },
+  {
+    "code": "IE",
+    "name": "İrlanda",
+    "flag": "🇮🇪"
+  },
+  {
+    "code": "HR",
+    "name": "Hırvatistan",
+    "flag": "🇭🇷"
+  },
+  {
+    "code": "MD",
+    "name": "Moldova",
+    "flag": "🇲🇩"
+  },
+  {
+    "code": "MK",
+    "name": "Kuzey Makedonya",
+    "flag": "🇲🇰"
+  },
+  {
+    "code": "RS",
+    "name": "Sırbistan",
+    "flag": "🇷🇸"
+  },
+  {
+    "code": "LT",
+    "name": "Litvanya",
+    "flag": "🇱🇹"
+  },
+  {
+    "code": "SI",
+    "name": "Slovenya",
+    "flag": "🇸🇮"
+  },
+  {
+    "code": "LV",
+    "name": "Letonya",
+    "flag": "🇱🇻"
+  },
+  {
+    "code": "EE",
+    "name": "Estonya",
+    "flag": "🇪🇪"
+  },
+  {
+    "code": "CY",
+    "name": "Kıbrıs",
+    "flag": "🇨🇾"
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "flag": "🇲🇹"
+  },
+  {
+    "code": "LU",
+    "name": "Lüksemburg",
+    "flag": "🇱🇺"
+  },
+  {
+    "code": "IS",
+    "name": "İzlanda",
+    "flag": "🇮🇸"
+  },
+  {
+    "code": "AL",
+    "name": "Arnavutluk",
+    "flag": "🇦🇱"
+  },
+  {
+    "code": "LI",
+    "name": "Lihtenştayn",
+    "flag": "🇱🇮"
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "flag": "🇦🇩"
+  },
+  {
+    "code": "MC",
+    "name": "Monako",
+    "flag": "🇲🇨"
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "flag": "🇸🇲"
+  },
+  {
+    "code": "VA",
+    "name": "Vatikan",
+    "flag": "🇻🇦"
+  },
+  {
+    "code": "US",
+    "name": "Amerika Birleşik Devletleri",
+    "flag": "🇺🇸"
+  },
+  {
+    "code": "CA",
+    "name": "Kanada",
+    "flag": "🇨🇦"
+  },
+  {
+    "code": "MX",
+    "name": "Meksika",
+    "flag": "🇲🇽"
+  },
+  {
+    "code": "ZA",
+    "name": "Güney Afrika",
+    "flag": "🇿🇦"
+  },
+  {
+    "code": "AU",
+    "name": "Avustralya",
+    "flag": "🇦🇺"
+  },
+  {
+    "code": "IN",
+    "name": "Hindistan",
+    "flag": "🇮🇳"
+  },
+  {
+    "code": "CN",
+    "name": "Çin",
+    "flag": "🇨🇳"
+  },
+  {
+    "code": "KR",
+    "name": "Güney Kore",
+    "flag": "🇰🇷"
+  },
+  {
+    "code": "GE",
+    "name": "Gürcistan",
+    "flag": "🇬🇪"
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaycan",
+    "flag": "🇦🇿"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "flag": "🇵🇰"
+  },
+  {
+    "code": "SG",
+    "name": "Singapur",
+    "flag": "🇸🇬"
+  }
+]
