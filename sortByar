@@ -1,0 +1,34 @@
+[
+  {
+    "by": "popularity.asc",
+    "name": "أقل شعبية أولاً"
+  },
+  {
+    "by": "popularity.desc",
+    "name": "الأكثر شعبية أولاً"
+  },
+  {
+    "by": "revenue.asc",
+    "name": "أقل إيرادًا أولاً"
+  },
+  {
+    "by": "revenue.desc",
+    "name": "أعلى إيرادًا أولاً"
+  },
+  {
+    "by": "primary_release_date.asc",
+    "name": "أقدم تاريخ إصدار أولاً"
+  },
+  {
+    "by": "primary_release_date.desc",
+    "name": "أحدث تاريخ إصدار أولاً"
+  },
+  {
+    "by": "vote_average.asc",
+    "name": "الأقل تقييمًا أولاً"
+  },
+  {
+    "by": "vote_average.desc",
+    "name": "الأعلى تقييمًا أولاً"
+  }
+]
