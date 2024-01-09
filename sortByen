@@ -1,0 +1,34 @@
+[
+  {
+    "by": "popularity.asc",
+    "name": "least popular first"
+  },
+  {
+    "by": "popularity.desc",
+    "name": "most popular first"
+  },
+  {
+    "by": "revenue.asc",
+    "name": "lowest revenue first"
+  },
+  {
+    "by": "revenue.desc",
+    "name": "highest revenue first"
+  },
+  {
+    "by": "primary_release_date.asc",
+    "name": "oldest release date first"
+  },
+  {
+    "by": "primary_release_date.desc",
+    "name": "newest release date first"
+  },
+  {
+    "by": "vote_average.asc",
+    "name": "lowest rated first"
+  },
+  {
+    "by": "vote_average.desc",
+    "name": "highest rated first"
+  }
+]
