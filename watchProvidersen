@@ -2,91 +2,91 @@
   {
     "logo_path": "/x6N4Sp4cwP9lYutveMruJcAKNQg.jpg",
     "provider_name": "AD tv",
-    "provider_id": 1958
+    "provider_id": "1958"
   },
   {
     "logo_path": "/uurfHKuprPDeKfIs7FYd5lQzw0L.jpg",
     "provider_name": "Shahid VIP",
-    "provider_id": 1715
+    "provider_id": "1715"
   },
   {
     "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg",
     "provider_name": "Netflix",
-    "provider_id": 8
+    "provider_id": "8"
   },
   {
     "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
     "provider_name": "Apple TV",
-    "provider_id": 2
+    "provider_id": "2"
   },
   {
     "logo_path": "/6uhKBfmtzFqOcLousHwZuzcrScK.jpg",
     "provider_name": "Apple TV Plus",
-    "provider_id": 350
+    "provider_id": "350"
   },
   {
     "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg",
     "provider_name": "Amazon Prime Video",
-    "provider_id": 119
+    "provider_id": "119"
   },
   {
     "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
     "provider_name": "Google Play Movies",
-    "provider_id": 3
+    "provider_id": "3"
   },
   {
     "logo_path": "/uOTEObCZtolNGDA7A4Wrb47cxNn.jpg",
     "provider_name": "STARZPLAY",
-    "provider_id": 630
+    "provider_id": "630"
   },
   {
     "logo_path": "/bVR4Z1LCHY7gidXAJF5pMa4QrDS.jpg",
     "provider_name": "MUBI",
-    "provider_id": 11
+    "provider_id": "11"
   },
   {
     "logo_path": "/ajbCmwvZ8HiePHZaOVEgm9MzyuA.jpg",
     "provider_name": "Zee5",
-    "provider_id": 232
+    "provider_id": "232"
   },
   {
     "logo_path": "/uW4dPCcbXaaFTyfL5HwhuDt5akK.jpg",
     "provider_name": "Sun Nxt",
-    "provider_id": 309
+    "provider_id": "309"
   },
   {
     "logo_path": "/iJGVfWTDddgipZ7mJCCEYzmRYrP.jpg",
     "provider_name": "Spuul",
-    "provider_id": 545
+    "provider_id": "545"
   },
   {
     "logo_path": "/iaMw6nOyxUzXSacrLQ0Au6CfZkc.jpg",
     "provider_name": "Classix",
-    "provider_id": 445
+    "provider_id": "445"
   },
   {
     "logo_path": "/fadQYOyKL0tqfyj012nYJxm3N2I.jpg",
     "provider_name": "Eventive",
-    "provider_id": 677
+    "provider_id": "677"
   },
   {
     "logo_path": "/59azlQKUgFdYq6QI5QEAxIeecyL.jpg",
     "provider_name": "Cultpix",
-    "provider_id": 692
+    "provider_id": "692"
   },
   {
     "logo_path": "/4FqTBYsUSZgS9z9UGKgxSDBbtc8.jpg",
     "provider_name": "FilmBox+",
-    "provider_id": 701
+    "provider_id": "701"
   },
   {
     "logo_path": "/eXxCDzaz4F7bkkgkZ8p6AbNQ8Dk.jpg",
     "provider_name": "TOD",
-    "provider_id": 1750
+    "provider_id": "1750"
   },
   {
     "logo_path": "/cnIHBy3uLWhHRR7VeWQhK3ZsYP0.jpg",
     "provider_name": "Takflix",
-    "provider_id": 1771
+    "provider_id": "1771"
   }
 ]
