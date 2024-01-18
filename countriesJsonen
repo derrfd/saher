@@ -1,9 +1,7 @@
 [
   {
     "code": "SY",
-    "name": "Syria 🇸🇾",
-    "languageCode": "ar",
-    "language": "Arasssssbic 🇸🇾"
+    "name": "Syria 🇸🇾"
   },
   {
     "code": "AE",
@@ -13,39 +11,27 @@
   },
   {
     "code": "SA",
-    "name": "Saudi Arabia 🇸🇦",
-    "languageCode": "ar",
-    "language": "Arabic 🇸🇦"
+    "name": "Saudi Arabia 🇸🇦"
   },
   {
     "code": "EG",
-    "name": "Egypt 🇪🇬",
-    "languageCode": "ar",
-    "language": "Arabic 🇪🇬"
+    "name": "Egypt 🇪🇬"
   },
   {
     "code": "IQ",
-    "name": "Iraq 🇮🇶",
-    "languageCode": "ar",
-    "language": "Arabic 🇮🇶"
+    "name": "Iraq 🇮🇶"
   },
   {
     "code": "KW",
-    "name": "Kuwait 🇰🇼",
-    "languageCode": "ar",
-    "language": "Arabic 🇰🇼"
+    "name": "Kuwait 🇰🇼"
   },
   {
     "code": "BH",
-    "name": "Bahrain 🇧🇭",
-    "languageCode": "ar",
-    "language": "Arabic 🇧🇭"
+    "name": "Bahrain 🇧🇭"
   },
   {
     "code": "QA",
-    "name": "Qatar 🇶🇦",
-    "languageCode": "ar",
-    "language": "Arsssssssssssssssabic 🇶🇦"
+    "name": "Qatar 🇶🇦"
   },
   {
     "code": "US",
